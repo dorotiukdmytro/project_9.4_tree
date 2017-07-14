@@ -1,0 +1,35 @@
+{
+  "name": "kodilla-project_9.3_strings",
+  "version": "1.0.0",
+  "description": "Project with java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorotiukdmytro/project-8-java.git"
+  },
+  "keywords": [
+    "dmytro"
+  ],
+  "author": "Dmytro Dorotiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorotiukdmytro/project-8-java/issues"
+  },
+  "homepage": "https://github.com/dorotiukdmytro/project-8-java#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "jshint": "^2.9.5"
+  },
+  "dependencies": {
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0",
+    "grunt": "^1.0.1",
+    "jshint": "^2.9.5"
+  }
+}
