@@ -1,34 +1,5 @@
 // scripts.js
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function drawTree(n) {
 	for (i = 0 ; i < n ; i++) {
 		var star = "";
@@ -38,6 +9,6 @@ function drawTree(n) {
 	console.log(star);
 	}
 }
-
+drawTree(15);
 
 
